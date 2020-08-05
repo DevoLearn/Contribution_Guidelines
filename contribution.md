@@ -23,9 +23,9 @@ The following is a set of guidelines for contributing to devolearn and its packa
 
 * Join the [devolearn slack](https://openworm.slack.com/archives/CMVFU7Q4W) 
 * Try contacting the contributors/authors we're pretty active on github !
- - [Mayukh Deb](https://github.com/Mayukhdeb)
- - [Ujjwal Singh](https://github.com/ujjwalll)
- - [Dr. Bradly Alicea](https://github.com/balicea)
+  - [Mayukh Deb](https://github.com/Mayukhdeb)
+  - [Ujjwal Singh](https://github.com/ujjwalll)
+  - [Dr. Bradly Alicea](https://github.com/balicea)
 
 ## What should I know before I get started?
 
