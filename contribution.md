@@ -80,3 +80,7 @@ If you don't want to read all of that, you can just write something like `filena
 
 A real example would be like: `readme: add images` 
 
+
+
+### Further Reading
+See also for more context: The [Onboarding Guide for GSoC '21, which provides a significant overview of DevoWorm and OpenWorm](https://github.com/devoworm/Proposals-Public-Lectures/blob/master/GSoC/2021/Onboarding/Onboarding%20Guide.md).
